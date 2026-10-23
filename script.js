@@ -4,7 +4,7 @@ const CONFIG = {
   seuNome: "Felipe",            // o seu nome
   inicio: "2026-05-27",       // data que começaram a namorar
   legendas: ["Nossa primeira foto", "Melhor dia", "Dia especial", "O dia da aliança"],
-fotos: ["img/foto1.jpg", "img/foto2.jpg", "img/foto3.jpg", "img/foto4.jpg"]
+fotos: ["img/foto1.jpg", "img/foto2.png", "img/foto3.jpg", "img/foto4.jpg"]
 };
 /* =============================== */
 
